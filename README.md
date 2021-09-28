@@ -6,6 +6,6 @@ Here is a link to the RIT Software Engineering Department website:
 https://www.rit.edu/computing/department-software-engineering
 
 A few things I'd like to take away from this class are:
--Developing a better understanding of Software Engineering Process
--Become more comfortable with using process rather than blindly coding
--Learn about what lies ahead on the path of Software Engineering here at RIT
+* Developing a better understanding of Software Engineering Process
+* Become more comfortable with using process rather than blindly coding
+* Learnabout what lies ahead on the path of Software Engineering here at RIT
