@@ -4,7 +4,7 @@ Hello, my name is Troy Wolf, and I am from Pepperell Massachusetts. I graduated 
 
 Here is my Favorite Food:
 
-![Image](https://github.com/TCW8857/TCW8857.github.io/blob/main/My_Favorite_Food.jpg "Molten Lava Cake")
+![My_Favorite_Food](https://user-images.githubusercontent.com/89418374/135193196-50e70783-83d3-44ea-a5ce-5a35a3ff3469.jpg)
 
 Here is a link to the RIT Software Engineering Department website:
 https://www.rit.edu/computing/department-software-engineering
